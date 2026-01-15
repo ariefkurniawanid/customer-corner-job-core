@@ -1,0 +1,1 @@
+# customer-corner-job-core
