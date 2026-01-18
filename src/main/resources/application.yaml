@@ -1,0 +1,65 @@
+spring:
+  application:
+    name: customer-corner-job-core
+  datasource:
+    url: jdbc:oracle:thin:@localhost:1521/XEPDB1
+    username: MYAPP
+    password: password
+    driver-class-name: oracle.jdbc.OracleDriver
+  jpa:
+    database-platform: org.hibernate.dialect.OracleDialect
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        show_sql: false
+        format_sql: true
+
+server:
+  port: 9090
+  error:
+    include-message: always
+
+logging:
+  level:
+    org.springframework.web: INFO
+    org.springframework.data.repository.config: DEBUG
+    root: INFO
+    org.hibernate: ERROR
+  file:
+    name: logs/job-core.log
+
+app:
+  job:
+    syncFundEbao: "-"
+    syncFundIpas: 0 0/1 * * * *
+  config:
+    session: 1
+  webservice:
+    url:
+      apimToken: https://jsonplaceholder.typicode.com/todos/1
+      fundQuery: https://jsonplaceholder.typicode.com/todos/1
+    parameterName:
+      apimToken:
+        identity: identity
+        valueIdentity: AAD
+      fundQuery:
+        effectiveDate: effectiveDate
+    headersName:
+      apimToken:
+        appId: App_ID
+        valueAppId: b05a9bad-10aa-42fc-9e3a-ec6b5913619d
+        appKey: App_Key
+        valueAppKey: 3ya8Q~R9XMTieHWcUXwDU78GyZLLDHFRTBYE4cYL
+        resource: Resource
+        valueResource: 68317719-d148-41e2-a1cf-6a43eb76e8f0
+        apiVersion: apiVersion
+        valueApiVersion: 1
+      fundQuery:
+        apiVersion: apiVersion
+        valueApiVersion: 1
+        tenanId: X-mo-tenant-id
+        valueTenanId: chubbina
+        userIdentity: X-mo-user-identity
+        valueUserIdentity: chubbina.admin
+        sourceIndi: SourceIndi

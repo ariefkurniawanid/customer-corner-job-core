@@ -1,0 +1,181 @@
+{
+    "fundQuery": {
+        "businessResultCode": "BR300",
+        "description": "",
+        "result": {
+            "queryFundDetail": {
+                "FundData": [
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "2904.1274",
+                        "FundCode": "AER",
+                        "FundName": "Rupiah Equity Fund",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "2904.1274",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "850.8130",
+                        "FundCode": "AER2",
+                        "FundName": "Rupiah Equity Fund II",
+                        "FundStatus": "Disable",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "850.8130",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "1162.6072",
+                        "FundCode": "AER3",
+                        "FundName": "Rupiah Equity Fund III",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "1162.6072",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "0.0001",
+                        "FundCode": "AER4",
+                        "FundName": "Rupiah Equity Fund IV",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "0.0001",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "2506.0033",
+                        "FundCode": "AFR",
+                        "FundName": "Rupiah Stable Fund",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "2506.0033",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "1.1474",
+                        "FundCode": "AFU",
+                        "FundName": "USD Stable Fund",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "1.1474",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "2152.9792",
+                        "FundCode": "AMMR",
+                        "FundName": "Rupiah Money Market Fund",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "2152.9792",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "2778.8782",
+                        "FundCode": "AMR",
+                        "FundName": "Rupiah Managed Fund",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "2778.8782",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "1430.3638",
+                        "FundCode": "ASBR",
+                        "FundName": "Rupiah Syariah Balanced Fund",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "1430.3638",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "758.5968",
+                        "FundCode": "ASER1",
+                        "FundName": "Rupiah Syariah Equity Fund",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "758.5968",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "0.0001",
+                        "FundCode": "ASER2",
+                        "FundName": "Rupiah Syariah Equity Fund II",
+                        "FundStatus": "Disabled",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "0.0001",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "1262.9133",
+                        "FundCode": "ASOR",
+                        "FundName": "Rupiah Syariah Bond Fund",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "1262.9133",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    },
+                    {
+                        "ApprovedDate": "03/01/2025",
+                        "BidPrice": "1.5127",
+                        "FundCode": "USEF",
+                        "FundName": "Global Equity Fund (Syariah)",
+                        "FundStatus": "Active",
+                        "LastApprovedby": "PRODDIMASZ33",
+                        "LastEnteredby": "PRODTANIA33",
+                        "OfferPrice": "1.5127",
+                        "PriceEffectiveDate": "01/01/2025",
+                        "PriceEntryDate": "03/01/2025",
+                        "PriceStatus": "Confirmed"
+                    }
+                ]
+            }
+        }
+    }
+}
